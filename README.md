@@ -22,6 +22,9 @@ Three datasets were provided:
 
 Merged on `Store` and `Date` to create a unified dataset.
 
+```
+NOTE - All 3 datsets are provided(cleaned) in csv format.
+```
 ---
 
 ## Methods & Techniques
